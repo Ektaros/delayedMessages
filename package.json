@@ -1,5 +1,5 @@
 {
-  "name": "delayedq-messages",
+  "name": "delayed-messages",
   "version": "1.0.0",
   "description": "RabbitMQ delayed messages without delayed plugin",
   "main": "delayedQueuesManager.js",
