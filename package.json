@@ -1,0 +1,23 @@
+{
+  "name": "delayedq-messages",
+  "version": "1.0.0",
+  "description": "RabbitMQ delayed messages without delayed plugin",
+  "main": "delayedQueuesManager.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ektaros/delayedMessages"
+  },
+  "keywords": [
+    "rabbitmq",
+    "delay",
+    "amqplib"
+  ],
+  "author": "Ilya Myasnikov",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
